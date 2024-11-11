@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrián Moreno Sánchez</h1>
-<h3 align="center">Apasionado del date y aspirante a científico de datos</h3>
+<h3 align="center">Apasionado del dato y aspirante a científico de datos</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
